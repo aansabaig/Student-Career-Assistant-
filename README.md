@@ -8,8 +8,8 @@ their progress.
 ---
 
 ## 👥 Team Members
-- Aansa
-- Aqsa
+- Aansa Baig
+- Aqsa Ibrahim
 
 ## 📚 Course
 AICT — Artificial Intelligence & Computer Technology
